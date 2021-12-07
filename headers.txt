@@ -1,0 +1,33 @@
+>gb:KJ917390|Organism:Influenza A virus (A/chicken/Guangdong/01/2013(H3N2))|Strain Name:A/chicken/Guangdong/01/2013|Segment:4|Subtype:H3N2|Host:Chicken
+>gb:HQ874606|Organism:Influenza A virus (A/chicken/Guangxi/2117/2010(H3N8))|Strain Name:A/chicken/Guangxi/2117/2010|Segment:4|Subtype:H3N8|Host:Chicken
+>gb:HQ165996|Organism:Influenza A virus (A/chicken/Pakistan/NARC-16945/2010(H3N1))|Strain Name:A/chicken/Pakistan/NARC-16945/2010|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:KP286828|Organism:Influenza A virus (A/chicken/Jiangxi/6717/2013(mixed))|Strain Name:A/chicken/Jiangxi/6717/2013|Segment:4|Subtype:mixed|Host:Chicken
+>gb:KM222548|Organism:Influenza A virus (A/chicken/Shanghai/LPM2/2013(H3N2))|Strain Name:A/chicken/Shanghai/LPM2/2013|Segment:4|Subtype:H3N2|Host:Chicken
+>gb:KP765881|Organism:Influenza A virus (A/chicken/Guangdong/G1863/2014(H3))|Strain Name:A/chicken/Guangdong/G1863/2014|Segment:4|Subtype:H3|Host:Chicken
+>gb:KU158890|Organism:Influenza A virus (A/chicken/Nanjing/B854-2/2011(H3N8))|Strain Name:A/chicken/Nanjing/B854-2/2011|Segment:4|Subtype:H3N8|Host:Chicken
+>gb:KY415634|Organism:Influenza A virus (A/chicken/Ganzhou/GZ157/2016(H3N2))|Strain Name:A/chicken/Ganzhou/GZ157/2016|Segment:4|Subtype:H3N2|Host:Chicken
+>gb:KY415635|Organism:Influenza A virus (A/chicken/Ganzhou/GZ43/2016(H3N2))|Strain Name:A/chicken/Ganzhou/GZ43/2016|Segment:4|Subtype:H3N2|Host:Chicken
+>gb:KT022293|Organism:Influenza A virus (A/chicken/Guangxi/135C10/2013(H3N2))|Strain Name:A/chicken/Guangxi/135C10/2013|Segment:4|Subtype:H3N2|Host:Chicken
+>gb:KT022317|Organism:Influenza A virus (A/chicken/Guangxi/165C7/2014(H3N2))|Strain Name:A/chicken/Guangxi/165C7/2014|Segment:4|Subtype:H3N2|Host:Chicken
+>gb:KT022237|Organism:Influenza A virus (A/chicken/Guangxi/015C10/2009(H3N2))|Strain Name:A/chicken/Guangxi/015C10/2009|Segment:4|Subtype:H3N2|Host:Chicken
+>gb:KT022261|Organism:Influenza A virus (A/chicken/Guangxi/073C2/2010(H3N2))|Strain Name:A/chicken/Guangxi/073C2/2010|Segment:4|Subtype:H3N2|Host:Chicken
+>gb:MK963734|Organism:Influenza A virus|Strain Name:A/chicken/Viet Nam/HN-1724/2014|Segment:4|Subtype:mixed|Host:Chicken
+>gb:MK972679|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/609/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MK972681|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/3497_0001/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MK972683|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/4492/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN006984|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/3497_0001/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN435596|Organism:Influenza A virus|Strain Name:A/chicken/Belgium/460/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN530503|Organism:Influenza A virus|Strain Name:A/korean native chicken/South Korea/N12-034/2012|Segment:4|Subtype:H3N2|Host:Chicken
+>gb:MN826748|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/3914/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826749|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/4010/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826750|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/4327/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826751|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/4464/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826753|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/4768/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826754|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/5227/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826755|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/5597/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826756|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/5680/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826757|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/5839/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826758|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/6079/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826759|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/6486/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826760|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/6519/2019|Segment:4|Subtype:H3N1|Host:Chicken
+>gb:MN826761|Organism:Influenza A virus|Strain Name:A/Gallus gallus/Belgium/6986/2019|Segment:4|Subtype:H3N1|Host:Chicken
